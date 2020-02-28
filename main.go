@@ -53,5 +53,6 @@ func main() {
 
 }else {
   fmt.Println("YOU HAVE WON")
+  //adds more else if statements to tell who wins or not
 }
 }
